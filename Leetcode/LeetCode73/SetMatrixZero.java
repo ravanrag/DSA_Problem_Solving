@@ -1,5 +1,8 @@
 package Leetcode.LeetCode73;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class SetMatrixZero {
     public void setZeroes(int[][] matrix) {
         int[] n= new int[matrix.length];
@@ -12,7 +15,7 @@ public class SetMatrixZero {
                 }
             }
         }
-
+List<List<Integer>> r = new ArrayList<>();
         for(int i=0; i<n.length; i++){
             for(int j=0; j<m.length; j++){
                 if(n[i]==1 || m[j]==1){
