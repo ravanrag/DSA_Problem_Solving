@@ -1,4 +1,4 @@
-package Leetcode.Leetcode189;
+package Arrays.Leetcode189;
 
 public class RotateArray {
     public void rotate(int[] nums, int k) {
