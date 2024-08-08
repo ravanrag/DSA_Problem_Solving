@@ -1,4 +1,4 @@
-package Arrays.LeetCode136;
+package ArraysProblems.LeetCode136;
 
 public class SingleNumber {
     public int singleNumber(int[] nums) {

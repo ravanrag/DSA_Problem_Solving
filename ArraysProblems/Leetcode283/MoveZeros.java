@@ -1,4 +1,4 @@
-package Arrays.Leetcode283;
+package ArraysProblems.Leetcode283;
 
 public class MoveZeros {
     public void moveZeroes(int[] nums) {

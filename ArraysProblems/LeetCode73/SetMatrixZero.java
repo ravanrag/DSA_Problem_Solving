@@ -1,4 +1,4 @@
-package Arrays.LeetCode73;
+package ArraysProblems.LeetCode73;
 
 import java.util.ArrayList;
 import java.util.List;

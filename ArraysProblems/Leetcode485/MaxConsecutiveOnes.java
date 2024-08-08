@@ -1,4 +1,4 @@
-package Arrays.Leetcode485;
+package ArraysProblems.Leetcode485;
 
 public class MaxConsecutiveOnes {
     public int findMaxConsecutiveOnes(int[] nums) {

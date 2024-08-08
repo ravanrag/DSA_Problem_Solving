@@ -1,4 +1,4 @@
-package Arrays.Leetcode268;
+package ArraysProblems.Leetcode268;
 
 public class MissingNumber {
     public int missingNumber(int[] nums) {
