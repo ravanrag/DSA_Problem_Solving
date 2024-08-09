@@ -12,6 +12,6 @@ public class TwoSums {
                 return new int[]{hm.get(diff),i};
             hm.put(nums[i],i);
         }
-        return new int[]{};
+        return new int[]{0,0};
     }
 }
