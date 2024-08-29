@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class LongestConsecutiveSequence {
-    public int longestConsecutiveSequence(int[] nums) {
+    public int longestSequence(int[] nums) {
         if(nums.length==0)
             return 0;
         Set<Integer> set = new HashSet<>();
