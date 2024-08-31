@@ -11,11 +11,12 @@ public class RotateArray {
         }
     }
     public void rotate(int[] nums ,int i, int j){
-        for(; i<j; i++){
+        while(i<j){
             int temp=nums[i];
             nums[i]=nums[j];
             nums[j]=temp;
             j--;
+            i++;
         }
     }
 }
