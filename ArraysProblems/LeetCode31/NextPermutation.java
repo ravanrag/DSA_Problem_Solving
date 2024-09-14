@@ -1,4 +1,4 @@
-package ArraysProblems.Leetcode31;
+package ArraysProblems.LeetCode31;
 
 public class NextPermutation {
     public void nextPermutation(int[] nums) {

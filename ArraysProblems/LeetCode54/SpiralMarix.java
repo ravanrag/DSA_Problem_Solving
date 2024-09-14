@@ -1,4 +1,4 @@
-package ArraysProblems.Leetcode54;
+package ArraysProblems.LeetCode54;
 
 import java.util.*;
 

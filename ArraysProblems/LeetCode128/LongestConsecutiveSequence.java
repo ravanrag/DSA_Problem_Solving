@@ -1,4 +1,4 @@
-package ArraysProblems.Leetcode128;
+package ArraysProblems.LeetCode128;
 
 import java.util.HashSet;
 import java.util.Set;

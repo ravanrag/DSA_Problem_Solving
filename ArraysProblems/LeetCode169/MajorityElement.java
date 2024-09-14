@@ -1,4 +1,4 @@
-package ArraysProblems.Leetcode169;
+package ArraysProblems.LeetCode169;
 
 public class MajorityElement {
     public int majorityElement(int[] nums) {

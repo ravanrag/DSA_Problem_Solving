@@ -1,4 +1,4 @@
-package ArraysProblems.Leetcode48;
+package ArraysProblems.LeetCode48;
 
 public class RotateImage {
     public void rotate(int[][] matrix) {

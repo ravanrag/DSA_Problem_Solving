@@ -1,4 +1,4 @@
-package ArraysProblems.Leetcode75;
+package ArraysProblems.LeetCode75;
 
 public class SortColors {
     public void sortColors(int[] nums) {

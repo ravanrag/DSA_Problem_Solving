@@ -1,6 +1,5 @@
-package ArraysProblems.Leetcode1;
+package ArraysProblems.LeetCode1;
 
-import java.util.Arrays;
 import java.util.HashMap;
 
 public class TwoSums {
