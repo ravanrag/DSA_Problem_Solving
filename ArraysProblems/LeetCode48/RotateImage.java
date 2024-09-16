@@ -3,8 +3,8 @@ package ArraysProblems.LeetCode48;
 public class RotateImage {
     public void rotate(int[][] matrix) {
         transpose(matrix);
-        for(int i=0; i<matrix.length;i++){
-            reverse(matrix[i]);
+        for (int[] ints : matrix) {
+            reverse(ints);
         }
     }
     public void transpose(int[][] matrix){
