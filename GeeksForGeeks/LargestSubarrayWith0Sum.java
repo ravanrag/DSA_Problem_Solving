@@ -3,7 +3,7 @@ package GeeksForGeeks;
 import java.util.HashMap;
 //https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1
 public class LargestSubarrayWith0Sum {
-    int maxLen(int arr[]) {
+    public int maxLen(int arr[]) {
         // code here
         HashMap<Integer,Integer> hm = new HashMap<>();
         int maxlen=0;
