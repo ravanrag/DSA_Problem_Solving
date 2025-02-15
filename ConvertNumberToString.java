@@ -1,6 +1,8 @@
+import GeeksForGeeks.LongestSubarraywithSumK;
+
 import java.util.Scanner;
 import java.util.Stack;
-
+import GeeksForGeeks.LargestSubarrayWith0Sum;
 public class ConvertNumberToString {
     static String castToSentence(long n) {
         if(n<0)
@@ -41,10 +43,14 @@ public class ConvertNumberToString {
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        if (scanner.hasNextLong()) {
-            long input = scanner.nextLong();
-            System.out.println(castToSentence(input));
-        }
+//        Scanner scanner = new Scanner(System.in);
+//        if (scanner.hasNextLong()) {
+//            long input = scanner.nextLong();
+//            System.out.println(castToSentence(input));
+//        }
+//        LargestSubarrayWith0Sum l = new LargestSubarrayWith0Sum();
+//        int[] arr= new int[]{11,7,0,23};
+//        System.out.print(l.maxLen(arr));
+
     }
 }
