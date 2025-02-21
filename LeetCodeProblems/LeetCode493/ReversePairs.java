@@ -1,5 +1,7 @@
 package LeetCodeProblems.LeetCode493;
 
+import java.util.Arrays;
+
 public class ReversePairs {
     public int reversePairs(int[] nums) {
         int[] copy = Arrays.copyOf(nums, nums.length);
