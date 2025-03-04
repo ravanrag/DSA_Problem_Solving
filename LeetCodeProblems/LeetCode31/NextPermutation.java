@@ -27,9 +27,9 @@ public class NextPermutation {
             j--;
         }
     }
-    public void swap(int[] a, int i, int j){
-        int temp=a[i];
-        a[i]=a[j];
-        a[j]=temp;
+    public void swap(int[] n, int i, int j){
+        int temp=n[i];
+        n[i]=n[j];
+        n[j]=temp;
     }
 }

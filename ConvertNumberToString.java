@@ -48,7 +48,7 @@ public class ConvertNumberToString {
 
     public static void main(String[] args) {
         convertor c = new convertor();
-        System.out.println(c.reverseusingRecursion(112));
+        System.out.println(c.reverseusingRecursion(10));
 
     }
 }
