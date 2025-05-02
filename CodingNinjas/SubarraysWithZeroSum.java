@@ -4,7 +4,6 @@ import java.util.HashMap;
 
 public class SubarraysWithZeroSum {
     public static int countSubarrays(int n, int[] arr) {
-        // Write your code here.
         HashMap<Integer,Integer> hm = new HashMap<>();
         hm.put(0,1);
         int count=0;
